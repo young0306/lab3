@@ -1,0 +1,14 @@
+total 96
+-rw-r--r-- 1 sejun sejun     0 Nov 30 16:49 copied.txt
+-rwxr-xr-x 1 sejun sejun 21512 Nov 30 18:12 final_shell
+-rw-r--r-- 1 sejun sejun  7394 Nov 30 18:11 final_shell.c
+-rw-r--r-- 2 sejun sejun     0 Nov 30 16:46 link_to_renamed.txt
+-rwxr-xr-x 1 sejun sejun 17152 Nov 30 16:26 myshell
+-rw-r--r-- 1 sejun sejun    42 Nov 30 16:26 out.txt
+-rw-r--r-- 1 sejun sejun     0 Nov 30 18:15 output.txt
+-rw-r--r-- 2 sejun sejun     0 Nov 30 16:46 renamed.txt
+-rw-r--r-- 1 sejun sejun     0 Nov 30 16:22 result.txt
+-rwxr-xr-x 1 sejun sejun 17296 Nov 30 17:06 shell_commands
+-rw-r--r-- 1 sejun sejun  5835 Nov 30 16:57 shell_commands.c
+-rw-r--r-- 1 sejun sejun  5679 Nov 30 16:26 simple_shell.c
+drwxr-xr-x 2 sejun sejun  4096 Nov 30 16:32 test

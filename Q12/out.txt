@@ -1,0 +1,4 @@
+myshell
+out.txt
+result.txt
+simple_shell.c
